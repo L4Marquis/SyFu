@@ -1,0 +1,15 @@
+Vectors_Save/
+*.fits
+*.eps
+*.pdf
+*.npy
+*_*.txt
+*.gif
+*.mp4
+*.png
+*.jpg
+*.tiff
+*.svg
+*.zip
+*.jpeg
+fusion_*.py

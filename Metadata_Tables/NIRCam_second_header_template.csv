@@ -1,0 +1,18 @@
+NAXIS,1,Number of array dimensions                     
+XPOSURE,,[s] Effective exposure time 
+SYNTETIC,T,The image is synthetic
+BUNIT,,Physical units of the array values
+,.,
+,World Coordinate System parameters,
+,.,
+WCSAXES,,Number of World Coordinate System axes         
+CRPIX1,,Axis 1 coordinate of the reference pixel       
+CRPIX2,,Axis 2 coordinate of the reference pixel       
+CRVAL1,,First axis value at the reference pixel        
+CRVAL2,,Second axis value at the reference pixel       
+CTYPE1,RA---TAN,Axis 1 type                                    
+CTYPE2,DEC--TAN,Axis 2 type                                    
+CUNIT1,deg,Axis 1 units                                   
+CUNIT2,deg,Axis 2 units                                   
+CDELT1,,Axis 1 coordinate increment at reference point 
+CDELT2,,Axis 2 coordinate increment at reference point

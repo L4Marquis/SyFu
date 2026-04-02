@@ -1,0 +1,26 @@
+NAXIS,1,Number of array dimensions
+NAXIS3,,Number of wavelengths  
+CRVAL3,,First wavelength considered
+CDELT3,,Step between wavelengths
+SYNTETIC,T,The image is synthetic
+XPOSURE,,[s] Effective exposure time
+BUNIT,,Physical units of the array values
+,.,                                                               
+,WCS parameters,                                                          
+,.,                                                                         
+WCSAXES,3,Number of World Coordinate System axes         
+CRPIX1,,Axis 1 coordinate of the reference pixel       
+CRPIX2,,Axis 2 coordinate of the reference pixel       
+CRPIX3,,Axis 3 coordinate of the reference pixel       
+CRVAL1,,First axis value at the reference pixel        
+CRVAL2,,Second axis value at the reference pixel       
+CRVAL3,,Third axis value at the reference pixel        
+CTYPE1,RA---TAN,Axis 1 type                                    
+CTYPE2,DEC--TAN,Axis 2 type                                    
+CTYPE3,WAVE,Axis 3 type                                    
+CUNIT1,deg,Axis 1 units                                   
+CUNIT2,deg,Axis 2 units                                   
+CUNIT3,um,Axis 3 units                                   
+CDELT1,,Axis 1 coordinate increment at reference point 
+CDELT2,,Axis 2 coordinate increment at reference point 
+CDELT3,,Axis 3 coordinate increment at reference point

@@ -1,0 +1,15 @@
+SIMPLE,T,Conforms to FITS standard  
+BITPIX,8,Array data type
+NAXIS,1,Number of array dimensions
+DATE,,Creation date
+ORIGIN,CNRS,Organization responsible for creating this file
+TIMESYS,UTC,Principal time system for time-related keywords
+TIMEUNIT,s,Default unit applicable to all time values
+FILENAME,,Name of the file
+,.,
+,Instrument configuration information,
+,.,
+INSTRUME,NIRSPEC,Instrument used to acquire the data
+TEMPLATE,NIRSpec IFU Spectroscopy,Observation template
+FILTER,,Filter used
+GRATING,,Grating used
