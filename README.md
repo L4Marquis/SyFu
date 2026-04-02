@@ -1,10 +1,13 @@
 # Fusion of JWST data: Demonstrating practical feasibility
 
 > Landry Marquis, Claire Guilloteau, Thomas Oberlin, Nicolas Dobigeon, Oliver Berné
+> 
+> Contact: landry.marquis@cnrs.fr
 
 This is the official implementation of the SyFu algorithm from the paper [Fusion of JWST data: Demonstrating practical feasibility](https://doi.org/10.1051/0004-6361/202558121). If you use this code, please cite the paper.
 
 ![SyFu_example_on_Titan](Figures/SyFu_example_on_Titan.png)
+*Symmetric fusion (SyFu) algorithm applied to Titan data*
 
 ## Abstract
 
@@ -37,7 +40,7 @@ The code can then be launched following two steps:
 python main_fusion.py
 ```
 
-**Important remark:** *This code uses the [STPSF library](https://stpsf.readthedocs.io/en/latest/index.html) to generate the point spread functions (PSF) of the instruments, which takes several hours to complete while the rest of the code computes in less than a minute. You can avoid this generation process by downloading the PSF [here]() and setting the ```compute_NIRCam_psf``` and ```compute_NIRSpec_psf``` flags to ```False``` for all three configurations.*
+**Important remark:** *This code uses the [STPSF library](https://stpsf.readthedocs.io/en/latest/index.html) to generate the point spread functions (PSF) of the instruments, which takes several hours to complete while the rest of the code computes in less than a minute. You can avoid this generation process by downloading the PSF [here](https://drive.google.com/drive/folders/1tG7KdhNI7YdPm9KIyDxX9KUxEnGzB717?usp=sharing) and setting the ```compute_NIRCam_psf``` and ```compute_NIRSpec_psf``` flags to ```False``` for all three configurations.*
 
 ## To cite this paper
 
