@@ -4,7 +4,7 @@
 
 This is the official implementation of the SyFu algorithm from the paper [Fusion of JWST data: Demonstrating practical feasibility](https://doi.org/10.1051/0004-6361/202558121). If you use this code, please cite the paper.
 
-![SyFu_example_on_Titan](Figures/SyFu_exmple_on_Titan.png)
+![SyFu_example_on_Titan](Figures/SyFu_example_on_Titan.png)
 
 ## Abstract
 
