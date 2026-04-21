@@ -39,8 +39,12 @@ The code can then be launched following two steps:
 ```console
 python main_fusion.py
 ```
-
 **Important remark:** *This code uses the [STPSF library](https://stpsf.readthedocs.io/en/latest/index.html) to generate the point spread functions (PSF) of the instruments, which takes several hours to complete while the rest of the code computes in less than a minute. You can avoid this generation process by downloading the PSF [here](https://drive.google.com/drive/folders/1tG7KdhNI7YdPm9KIyDxX9KUxEnGzB717?usp=sharing) and setting the ```compute_NIRCam_psf``` and ```compute_NIRSpec_psf``` flags to ```False``` for all three configurations.*
+
+## Testing fusion on your own data
+
+The process of finding data among your sources of interest where fusion is applicable, then to perform fusion on this data, is detailed in the tutorial notebook *Fusion Tutorial.ipynb*. 
+
 
 ## To cite this paper
 
